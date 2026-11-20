@@ -33,7 +33,7 @@ Output:
 ```
 theme : dark
 font : arial
-font_size = 20
+font_size : 20
 ```
 
 ## Keep in mind
